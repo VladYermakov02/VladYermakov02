@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
+<h1 align="center">Hi 👋, I'm Vladyslav</h1>
 <h3 align="center">A Graduand of Ukrainian State University of Science and Technologies. Degree of Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladyermakov02&label=Profile%20views&color=0e75b6&style=flat" alt="vladyermakov02" /> </p>
